@@ -1,0 +1,9 @@
+.App {
+    font-family: sans-serif; text-align: center;
+    }
+    span {
+    padding: 11px;
+    }
+    button {
+    display: inline; margin: 11px;
+    }

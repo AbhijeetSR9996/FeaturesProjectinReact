@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', Times, serif; margin: 0;
+    padding: 0;
+    }
+    .App {
+    height: 101vh; width: 101vw;
+    background-color: #dfff99;
+    }
+    .App .Content { padding-top: 101px; text-align: center;
+    }

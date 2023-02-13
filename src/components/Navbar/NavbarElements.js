@@ -49,15 +49,15 @@ export const Bars = styled(FaBars)`
 
 export const FReact = styled(FaReact)`
   color: red;
-  @media screen and (max-width: 768px) {
-    display: block;
-    position: absolute;
-    //top: 0;
-    right: 10;
-    transform: translate(-100%, 75%);
-    font-size: 2.8rem;
-    cursor: pointer;
-  }
+  // @media screen and (max-width: 768px) {
+  //   display: block;
+  //   position: absolute;
+  //   //top: 0;
+  //   //right: 10;
+  //   transform: translate(-100%, 75%);
+  //   font-size: 2.8rem;
+  //   cursor: pointer;
+  // }
 `;
 
 export const FaLeft = styled(FaArrowLeft)`

@@ -2,7 +2,6 @@ import React from 'react';
 import {
   Nav,
   NavLink,
-  Bars,
   NavMenu,
   NavBtn,
   NavBtnLink,
@@ -19,6 +18,7 @@ const Navbar = () => {
           <NavLink to='/' style={{ textDecoration: 'none', color: '#000', fontSize: 20, paddingLeft: '15rem 10rem', marginRight: '10rem', marginLeft: '-5rem' }}>
             smass
           </NavLink>
+
           <NavLink to='/howitworks' activeStyle>
             How it works
           </NavLink>

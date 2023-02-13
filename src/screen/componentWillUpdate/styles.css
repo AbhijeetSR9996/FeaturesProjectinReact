@@ -1,0 +1,29 @@
+.main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* .block {
+        background-color: #fff;
+        color: green;
+        border: 1px solid black;
+        border-radius: 6px;
+    } */
+}
+
+.facts {
+    opacity: 1;
+}
+
+
+button {
+    padding: 10px;
+    color: red;
+    width: 99%;
+    font-size: 20px;
+
+    /* &.status {
+        opacity: 1;
+    } */
+}

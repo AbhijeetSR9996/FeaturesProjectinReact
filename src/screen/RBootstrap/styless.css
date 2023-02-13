@@ -1,0 +1,13 @@
+.list-group {
+    margin: 31px 0;
+    }
+    a.list-group-item {
+    font-weight: 601;
+    }
+    .list-group-item::before {
+    content: "▶︎";
+    display: inline-block;
+    padding-right: 9px;
+    font-size: 13px;
+    line-height: 2;
+    }

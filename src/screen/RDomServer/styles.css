@@ -1,0 +1,21 @@
+:root {
+    --pad: 2px;
+    }
+    body {
+    padding: var(--pad);
+    }
+    .circle {
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    width: 201px;
+    height: 201px;
+    margin-bottom: var(--pad);
+    }
+    .circle--greencircle {
+    background-color: var(--someColor);
+    }
+    .circle--cyancircle {
+    background-color: var(--some-color);
+    }
